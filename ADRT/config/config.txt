@@ -1,0 +1,20 @@
+[0] Start Array
+# - - - - - - - - - - - - - - - - - - - - - #
+# Warning:                                  #
+# Do not remove any lines from this file.   #
+# Change only lines: 8, 10, 12, 14, 16, 18  #
+#                                           #
+# Company Name                              #
+Fsociety.copr
+# Owner/Analyst                             #
+Douglas Ramos
+# Mail Server                               #
+email.qualyti.inf.br
+# Port                                      #
+587
+# From                                      #
+report@qualyti.inf.br
+# To (mail1@domain.com,mail2@domain.com)    #
+ramos.ti@live.com
+#                                           #
+# - - - - - - - - - - - - - - - - - - - - - #
